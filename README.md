@@ -4,5 +4,5 @@
 
 ### HOME-SECTION
 
-!home-section(https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotA.png)
+![home-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotA.png)
 

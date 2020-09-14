@@ -34,13 +34,9 @@ DESKTOP VIEW                                   |         MOBILE VIEW
 
 DESKTOP VIEW                                   |         MOBILE VIEW
 :---------------------------------------------:|:----------------------------------------:
-![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotD.png) | ![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotE.png)
-
-
-
-DESKTOP VIEW                                   |         MOBILE VIEW
+![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotD.png) | ![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotL.png)
 :---------------------------------------------:|:----------------------------------------:
-![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotL.png) | ![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotM.png)
+![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotE.png) | ![centuries-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotM.png)
 
 
 ### RANKING-SECTION
@@ -61,12 +57,5 @@ DESKTOP VIEW                                   |         MOBILE VIEW
 ![records-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotG.png) | ![records-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotO.png)
 
 
-
-### NAVIGATION_SECTION
-
-
-
-
-![navigation-section](https://github.com/Vikhyat-1820/JSN18F/blob/master/JSN18F_PREVIEW/ScreenshotI.png)
 
 
